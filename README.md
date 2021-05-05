@@ -1,5 +1,3 @@
-# Test_inpainting_metrics
-
 The steps of test the inpainting metrics of irregular holes.
 
 The Irregular Mask Dataset used for test can be download publically from the [website](https://nv-adlr.github.io/publication/partialconv-inpainting).
